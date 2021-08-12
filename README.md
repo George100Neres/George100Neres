@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 Em busca de um emprego como Dev
 - 🌱 Tenho conhecimentos em algumas liguagens como: CSS, Java ,html,CSS,Javascript
 - 👯 Estou disposto a ajudar  quando possivel.
