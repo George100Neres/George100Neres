@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Em busca de um emprego como Dev 
 - 🌱 Tenho conhecimentos em algumas liguagens como: CSS, Java ,html,CSS,Javascript
-- 👯 Estou disposto a fazer parte em ajudar a comunidade de Devs
+- 👯 Estou disposto a fazer parte em ajudar a  comunidade quando possivel
 - 🤔  QUando tenho dificuldades em alguma parte do código,procuro ajuda
 - ⚡ Fun fact: ...
 
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 --><div>
   <a href="https://github.com/George100Neres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeN100Neresi&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George100Neres&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
