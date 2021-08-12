@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **George100Neres/George100Neres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 👯 Estou disposto a fazer parte em ajudar a comunidade de Devs
 - 🤔  QUando tenho dificuldades em alguma parte do código,procuro ajuda
 - ⚡ Fun fact: ...
+
+
+
 --><div>
   <a href="https://github.com/George100Neres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeN100Neresi&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
